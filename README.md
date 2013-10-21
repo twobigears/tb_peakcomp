@@ -3,7 +3,7 @@ tb_peakcomp~
 
 A stereo (L+R) peak compressor for Pd/libpd. Free = MIT License.
 
-This is an external for Pure Data (Pd), created to keep a check on the master stereo output. Useful for dynamic audio content especially on mobile devices.
+This is an external for Pure Data (Pd), created to keep a check on the master stereo output. Useful for dynamic audio content — especially on mobile devices.
 
 Features:
 * Threshold (dB)
@@ -19,8 +19,8 @@ Installation:
 -------------
 
 * OSX: Add the contents of "OSX" to your Pd path
-* Android: Add the contents of the "Android" directory to the 'libs' directory of your Android project
-* iOS: Follow the steps in the libpd-for-iOS wiki
+* Android: Add the contents of the "Android" directory to the "libs" directory of your Android project
+* iOS: Follow the steps in the libpd-for-ios wiki
 
 ![tb_peakcomp~ demo patch](http://twobigears.com/othermedia/tb_peakcomp_demo_screen.png)
 
